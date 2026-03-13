@@ -124,6 +124,12 @@ FoodieHub/
 
 ## 📸 Screenshots
 
-> Coming soon
+Here are some screenshots of the FoodieHub platform:
+
+![Screenshot 1](demo_images/Screenshot_1.png)
+![Screenshot 2](demo_images/Screenshot_2.png)
+![Screenshot 3](demo_images/Screenshot_3.png)
+![Screenshot 4](demo_images/Screenshot_4.png)
+![Screenshot 5](demo_images/Screenshot_5.png)
 
 ---
