@@ -1,6 +1,6 @@
 # 🍳 FoodieHub
 
-**FoodieHub** is a community-driven recipe platform built with PHP and MySQL. Users can create accounts, upload their own recipes, discover dishes shared by others, leave reviews, ratings, likes and comments — all in a clean, dark-themed interface.
+**FoodieHub** is a community-driven recipe platform built with PHP and MySQL. Users can create accounts, upload their own recipes, discover dishes shared by others, leave reviews, ratings, likes and comments, all in a clean, dark-themed interface.
 
 ---
 
@@ -42,7 +42,11 @@ FoodieHub/
 ├── upload_recipe.php       # Upload a new recipe (auth required)
 ├── edit_recipe.php         # Edit existing recipe (owner only)
 ├── delete_recipe.php       # Delete recipe (owner only)
-├── about.php               # About page with live stats
+│
+├── about/                  # About section
+│   ├── about.php           # About page with live stats
+│   └── about.css           # About page stylesheet
+│
 ├── style.css               # Main stylesheet
 ├── recipes.css             # Recipes page stylesheet
 │
@@ -123,4 +127,3 @@ FoodieHub/
 > Coming soon
 
 ---
-
