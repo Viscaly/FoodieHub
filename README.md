@@ -35,7 +35,7 @@
 
 ```
 FoodieHub/
-│
+├── recipe_social.sql # The SQL file for creating the tables
 ├── index.php               # Home page — featured recipes
 ├── recipes.php             # All recipes with search & sort
 ├── recipe.php              # Single recipe page (likes, reviews, comments)
